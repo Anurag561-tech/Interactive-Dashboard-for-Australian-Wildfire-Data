@@ -56,7 +56,7 @@ In this part, you will create interactive dashboards using Dash and Plotly, allo
   - `wildfire_analysis.ipynb`: Contains all tasks related to data analysis and visualization.
   
 - **Part 2: Dashboard Implementation**
-  - `dashboard_app.py`: Contains code for creating the interactive dashboard.
+  - `flight_delay.py`: Contains code for creating the interactive dashboard.
 
 ## Results 
 The results include detailed visualizations of wildfire activity in Australia, and an interactive dashboard that provides insights into the distribution
