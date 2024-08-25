@@ -1,4 +1,4 @@
-# Wildfire Activity Analysis and Dashboard in Australia
+# Australian Wildfire Activity Analysis and Dashboard
 
 This project is divided into two main parts: 
 1. **Analyzing the Wildfire Activities in Australia** 
